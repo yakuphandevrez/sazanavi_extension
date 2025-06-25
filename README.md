@@ -16,7 +16,7 @@ Bu repoyu indir veya klonla:
 bash
 Kopyala
 Düzenle
-git clone https://github.com/kullaniciadi/ai-phishing-detector.git
+git clone https://github.com/yakuphandevrez/sazanavi_extension/tree/main
 Chrome tarayıcısını aç ve chrome://extensions/ sayfasına git.
 
 Sağ üstteki Geliştirici modunu aktif et.
