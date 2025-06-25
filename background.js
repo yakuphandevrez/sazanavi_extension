@@ -1,5 +1,5 @@
-const SAFE_BROWSING_API_KEY = "AIzaSyDw-P880_NTQdAyHRwOqW5214-lh_zFQQ0";
-const GEMINI_API_KEY = "AIzaSyCHoQ5gt4YG27LuctW9OvIFBr72TJ57PHk";
+const SAFE_BROWSING_API_KEY = "API_KEY";
+const GEMINI_API_KEY = "API_KEY";
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
     if (request.action === 'checkUrl') {
